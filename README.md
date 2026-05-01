@@ -4,6 +4,12 @@ Standalone app/project/URL/natural-language video generator.
 
 This folder is separate from `master-architect-fixer`. It uses the local Remotion repo and FFmpeg video resources as one system, but it does not require `master-architect-output`.
 
+GitHub:
+
+```text
+https://github.com/krishnasureshcpa/perfect-media
+```
+
 ## Command
 
 ```bash
