@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+perfect-media-output/
+_segments/
+*.mp4
+*.mov
+*.m4v
+*.dmg
+*.app/
